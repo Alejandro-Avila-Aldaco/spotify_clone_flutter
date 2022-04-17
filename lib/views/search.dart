@@ -12,7 +12,7 @@ class _SearchViewState extends State<SearchView> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("Si jala la busqueda pa'"),
+        child: Text("Search"),
       ),
     );
   }

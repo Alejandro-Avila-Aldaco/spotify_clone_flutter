@@ -12,7 +12,7 @@ class _LibraryViewState extends State<LibraryView> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("Si jala la libreria pa'"),
+        child: Text("Library"),
       ),
     );
   }

@@ -27,14 +27,14 @@ class _MyAppState extends State<MyApp> {
           selectedLabelStyle: TextStyle(
             fontSize: 12,
           ),
-    unselectedLabelStyle: TextStyle(
-    fontSize: 12,
-        ),
+          unselectedLabelStyle: TextStyle(
+            fontSize: 12,
+          ),
           selectedItemColor: Colors.white,
           unselectedItemColor: Colors.white38,
+        ),
       ),
-    ),
-        home: Tabbar(),
+      home: Tabbar(),
     );
   }
 }
